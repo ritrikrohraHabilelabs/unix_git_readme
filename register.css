@@ -1,0 +1,22 @@
+.registerDiv{
+    padding: 10px 0;
+}
+.registerDiv form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.registerDiv form input, .registerDiv form select{
+    margin-bottom: 20px;
+    padding: 15px;
+    width: 50%;
+}
+.registerText{
+    text-align: center;
+}
+.registerText p span{
+    text-decoration: underline;
+    cursor: pointer;
+    color: brown;
+}
